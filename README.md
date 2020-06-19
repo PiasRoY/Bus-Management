@@ -12,4 +12,6 @@ The project will create new 4 files based on the day you run it. Those files wil
 ### Walkthrough:
 
 * Home page: </br> </br>
-![homepage](Images/https://github.com/PiasRoY/Bus-Management/blob/master/Images/Bus%20Schedule%20-%201.png?raw=true)
+![homepage](Images/HomePage.png)
+
+
