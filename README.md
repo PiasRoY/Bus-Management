@@ -18,7 +18,7 @@ The project will create new 4 files based on the day you run it. Those files wil
 ![schedule](https://github.com/PiasRoY/Bus-Management/blob/master/Images/Bus%20Schedule%20-%201.png?raw=true)
 
 * **Bus Booking:** </br> </br>
-![booking](https://github.com/PiasRoY/Bus-Management/blob/master/Images/Bus%20Booking%20with%20seat%20availability.png?raw=true)
+![booking](https://github.com/PiasRoY/Bus-Management/blob/master/Images/Bus%20Booking%20with%20seat%20availability.png)
 ![receipt](https://github.com/PiasRoY/Bus-Management/blob/master/Images/Booking%20Receipt.png)
 
 * **Seat Availability: after booking of seat {A1}** </br> </br>
