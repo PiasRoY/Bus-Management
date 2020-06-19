@@ -1,0 +1,29 @@
+Route 	        Bus 		  	  Time		Price(BDT)
+CODE		Routes			 -------	----------
+-----           --------	         ------- 	----------
+
+1. 	    DHAKA-KHULNA(NON-AC)	 8:00AM 	   400
+2. 	    DHAKA-KHULNA(AC)		 8:30AM 	   550
+
+3.	    DHAKA-CHITTAGONG(NON-AC)	 9:00AM		   480
+4.	    DHAKA-CHITTAGONG(AC)	 9:30AM		   1000
+
+
+5. 	    KHULNA-DHAKA(NON-AC)	 10:00AM	   400
+6.          KHULNA-DHAKA(AC)		 10:30AM 	   550
+
+7. 	    CHITTAGONG-DHAKA(NON-AC)	 11:00AM 	   480
+8. 	    CHITTAGONG-DHAKA(AC)	 11:30AM	   1000
+
+9. 	    DHAKA-KHULNA(NON-AC)	 8:00PM 	   400
+10. 	    DHAKA-KHULNA(AC)		 8:30PM 	   550
+
+11.	    DHAKA-CHITTAGONG(NON-AC)	 9:00PM		   480
+12.	    DHAKA-CHITTAGONG(AC)	 9:30PM		   1000
+
+
+13. 	    KHULNA-DHAKA(NON-AC)	 10:00PM	   400
+14.          KHULNA-DHAKA(AC)		 10:30PM 	   550
+
+15. 	    CHITTAGONG-DHAKA(NON-AC)	 11:00PM 	   480
+16. 	    CHITTAGONG-DHAKA(AC)	 11:30PM	   1000

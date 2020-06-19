@@ -1,0 +1,16 @@
+Route 	        Bus 		  	 Price(BDT)
+CODE		Routes			 ----------
+-----           --------	         ----------
+
+1. 	    DHAKA-KHULNA(NON-AC)	  400
+2. 	    DHAKA-KHULNA(AC)		  550
+
+3.	    DHAKA-CHITTAGONG(NON-AC)	  480
+4.	    DHAKA-CHITTAGONG(AC)	  1000
+
+
+5. 	    KHULNA-DHAKA(NON-AC)	  400
+6.          KHULNA-DHAKA(AC)		  550
+
+7. 	    CHITTAGONG-DHAKA(NON-AC)	  480
+8. 	    CHITTAGONG-DHAKA(AC)	  1000

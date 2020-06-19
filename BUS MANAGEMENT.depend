@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1512456685 source:c:\users\user\desktop\bus management\busschedules.cpp
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	"Bus.Functions.h"
+
+1512429030 c:\users\user\desktop\bus management\bus.functions.h
+	"Bus.Functions.CustomerDetails.h"
+	"Bus.Functions.BusBooking.h"
+	"Bus.Functions.Availability.h"
+	"Bus.Functions.BusSchedules.h"
+	"Bus.Functions.Display.h"
+	"Bus.Functions.InsertInBooked.h"
+	"Bus.Functions.DATE.h"
+	"Bus.Functions.Update.h"
+	"Bus.Functions.SEATS.h"
+	"Bus.Functions.TicketCancellation.h"
+	"Bus.Structures.h"
+	"Bus.Functions.AdminPanel.h"
+	"to_upper.h"
+
+1512430095 source:c:\users\user\desktop\bus management\customerdetails.cpp
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	"Bus.Functions.h"
+
+1512425407 source:c:\users\user\desktop\bus management\display.cpp
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<cstdlib>
+	"Bus.Functions.h"
+
+1512431810 source:c:\users\user\desktop\bus management\insertinbooked.cpp
+	<stdio.h>
+	<string.h>
+	"Bus.Functions.h"
+
+1512431810 source:c:\users\user\desktop\bus management\availability.cpp
+	<stdio.h>
+	<string.h>
+	"Bus.Functions.h"
+
+1512458455 source:c:\users\user\desktop\bus management\busbooking.cpp
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	"Bus.Functions.h"
+
+1512461079 c:\users\user\desktop\bus management\bus.structures.h
+
+1512461469 source:c:\users\user\desktop\bus management\main.cpp
+	<stdio.h>
+	<cstdlib>
+	<string.h>
+	"Bus.Functions.h"
+
+1512409135 source:c:\users\user\desktop\bus management\ticketcancellation.cpp
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	"Bus.Functions.h"
+
+1511970867 source:c:\users\user\desktop\bus management\date.cpp
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"Bus.Functions.h"
+
+1512416595 source:c:\users\user\desktop\bus management\update.cpp
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	"Bus.Functions.h"
+
+1512428189 source:c:\users\user\desktop\bus management\seats.cpp
+	<stdio.h>
+	<cstdlib>
+	"Bus.Functions.h"
+
+1512409935 c:\users\user\desktop\bus management\bus.functions.customerdetails.h
+
+1512424137 c:\users\user\desktop\bus management\bus.functions.busbooking.h
+
+1512410302 c:\users\user\desktop\bus management\bus.functions.availability.h
+
+1512410368 c:\users\user\desktop\bus management\bus.functions.busschedules.h
+
+1512410433 c:\users\user\desktop\bus management\bus.functions.display.h
+
+1512410525 c:\users\user\desktop\bus management\bus.functions.insertinbooked.h
+
+1512410588 c:\users\user\desktop\bus management\bus.functions.date.h
+
+1512410634 c:\users\user\desktop\bus management\bus.functions.update.h
+
+1512425420 c:\users\user\desktop\bus management\bus.functions.seats.h
+
+1512410806 c:\users\user\desktop\bus management\bus.functions.ticketcancellation.h
+
+1512456530 c:\users\user\desktop\bus management\bus.functions.adminpanel.h
+
+1512456523 source:c:\users\user\desktop\bus management\adminpanel.cpp
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	"Bus.Functions.h"
+
+1512419925 source:c:\users\user\desktop\bus management\adminpanel.readingfile.cpp
+	<stdio.h>
+	<string.h>
+	"Bus.Functions.h"
+
+1512428001 source:c:\users\user\desktop\bus management\adminpanel.list.cpp
+	<stdio.h>
+	<string.h>
+	"Bus.Functions.h"
+
+1512459080 source:c:\users\user\desktop\bus management\adminpanel.emergencymode.cpp
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	"Bus.Functions.h"
+
+1512456427 source:c:\users\user\desktop\bus management\rctornconverter.cpp
+	<stdio.h>
+	<string.h>
+	"Bus.Functions.h"
+
+1512429030 c:\users\user\desktop\bus management\to_upper.h
+
+1512429030 source:c:\users\user\desktop\bus management\to_upper.cpp
+	<stdio.h>
+	<string.h>
+	"Bus.Functions.h"
+
