@@ -1,5 +1,7 @@
 # Bus Management 
 
+The Bus Management System is a practical C/C++ project that automates the tracking of bus schedules and ticketing information. It generates daily reports, including schedules, passenger info, seat bookings, and seat availability, with additional records for cancellations. It’s an efficient solution for managing bus services, ensuring all data is neatly organized and easily accessible for daily operations. This system utilizes the effective use of programming to facilitate transportation management.
+
 ### User-Guide: 
 Open the "BUS MANAGEMENT.cbp" file in codeblocks. It will open the whole project. Now just run the project. </br>
 The project will create new 4 files based on the day you run it. Those files will be named as follow:
